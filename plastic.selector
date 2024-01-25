@@ -1,0 +1,4 @@
+repository "Othello@wechat_os_qy0-cukijpskkwkmexritwyuu@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
